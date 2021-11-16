@@ -1,0 +1,39 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Mathematics",
+      "Topology and Geometry"
+    ],
+    [
+      "Mathematics",
+      "Algebra and Number Theory"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Algorithms and Data Structures"
+    ],
+    [
+      "Mathematics",
+      "Discrete Mathematics"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "d612255f-5c65-c013-deec-bdad3aff4461"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Geometric Combinatorics",
+  "course_description": "This course offers an introduction to discrete and computational geometry. Emphasis is placed on teaching methods in combinatorial geometry. Many results presented are recent, and include open (as yet unsolved) problems.\n",
+  "department_numbers": [
+    "18"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "18.319",
+  "learning_resource_types": [
+    "Problem Sets"
+  ],
+  "title": "Course Metadata"
+}
